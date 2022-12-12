@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Undefined",ASTV News 1,News 1
+http://news1.live14.com/stream/news1_hi.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KH;TH" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV,bTV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",Channel 5 (1080p)
+http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 1 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv01.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 10 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv10.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 11 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv11.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 12 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv12.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 13 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv13.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 14 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv14.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 2 (480p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv02.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 4 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv04.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 5 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv05.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 7 (720p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv07.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 8 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv08.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",DLTV 9 (1080p) [Not 24/7]
+https://dltv-live-edge.catcdn.cloud/dltv09.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="News",News 1
+http://news1.live14.com/stream/news1.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Undefined",TPTV (286p) [Not 24/7]
+https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Undefined",Thai PBS (Opt-4)
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/lK52fpm.png" group-title="Undefined",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8?checkedby:iptvcat.net
