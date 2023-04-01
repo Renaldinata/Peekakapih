@@ -1,0 +1,1731 @@
+#EXTM3U
+
+url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
+
+####### PLAYLIST INI DISUSUN UNTUK PEMBELAJARAN DAN BUKAN KOMERSIL SESUAI UU YANG BERLAKU ######
+####### LISENSI RESMI PENYIARAN ADALAH MILIK MASING-MASING PENYEDIA PROVIDER IPTV SESUAI UU YANG BERLAKU #######
+####### ANUTV HANYA MENYEDIAKAN SCRIPT UNTUK PEMBELAJARAN DALAM MENYUSUN KODING M3U8 #######
+####### PENYALAHGUNAAN PLAYLIST BUKAN TANGGUNG JAWAB ANUTV ##########
+
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="Welcome to KaulaTV",KaulaTV
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
+################################
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Champion Sports 1 HD
+http://103.167.167.5:8111/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Champion Sports 2 HD
+http://103.167.167.5:8111/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",T.Sports•indie
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",LFCTV•HD
+http://103.145.13.31/6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",STARZPLAY•SPORTS•2•HD
+http://103.145.13.31/7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SSC* HD
+http://103.145.13.31/12/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",starzplay.Sport
+http://103.145.13.31/13/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",starzplay.Sport.2
+http://103.145.13.31/14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein Sport 1
+http://89.38.99.141/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein Sport 2
+http://89.38.99.141/2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein Sport 3
+http://89.38.99.141/3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein Sport 4
+http://89.38.99.141/4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein Sport 5
+http://89.38.99.141/5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein Sport 6
+http://89.38.99.141/6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein Sport 7
+http://89.38.99.141/7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Willow cricket HD
+http://ys-users.com:8080/live/Srussell/Vqz2EfBh5r/377943.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Astro cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/2494.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",DD sports HD
+http://starshare.org:8080/live/gxc733/sxk877/4044.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",PTV sports HD
+http://starshare.org:8080/live/gxc733/sxk877/89.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Sky Sport Arena
+http://204.12.247.162:8080/premium36/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Dazn 1 Sport
+http://204.12.247.162:8080/premium426/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Dazn 2 Sport
+http://204.12.247.162:8080/premium427/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Arena 1 Sport
+http://204.12.247.162:8080/premium429/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Arena 2 Sport
+http://204.12.247.162:8080/premium582/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Arena 3 Sport
+http://204.12.247.162:8080/premium431/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Arena 4 Sport
+http://204.12.247.162:8080/premium581/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Diema Sport
+http://204.12.247.162:8080/premium465/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Diema Sport 2
+http://204.12.247.162:8080/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Diema Sport 3
+http://204.12.247.162:8080/premium467/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Diema Sport Xtra
+http://204.12.247.162:8080/premium468/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",ESPN 1
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93032.ts
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",ESPN 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93033.ts
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",FOX Sports 1
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93039.ts
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",FOX Sports 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93040.ts
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Fight Network
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93035.ts
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein Sport 1 English
+http://213.7.193.54:4000/play/a002
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Citavision Spots 2HD
+http://213.7.193.54:4000/play/a005
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Persiana Sports
+http://51.210.199.32/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",True vision 2
+http://4digital.ddns.net:11224/ts/0
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Setanta Sports 1
+https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Setanta Sports 2
+https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",TVRI_SPORT HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",RTV SPORT 🇸🇲
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+
+##EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",J Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",J Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",ON FOOTBALL
+https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SCTV17 -SPORTS
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SCTV22 -SPORTS
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",BTV5 -SPORTS
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SCTV15 -SPORTS
+https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SOCCER•CHANNEL
+http://103.167.167.5:8111/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",ESPN 2 HD
+http://190.5.200.52:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",GOLTV
+http://51.158.36.81:18000/GOL/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Willow cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/23943.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Star sports 3 HD
+http://starshare.org:8080/live/gxc733/sxk877/1080.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SUPERSPORTS_2
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52860.ts
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Star sports select 1 HD
+http://208.86.19.13:81/7366.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Star sports select 2 HD
+http://starshare.org:8080/live/gxc733/sxk877/200.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Star sports 1 HD
+http://starshare.org:8080/live/gxc733/sxk877/124281.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Eurosports HD
+http://starshare.org:8080/live/gxc733/sxk877/216.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Ten sports HD
+http://starshare.org:8080/live/gxc733/sxk877/98.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",BEINsports•extra
+https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Saudi•1
+http://62.182.82.104/Saudi_1/index.m3u8?token=test&v=1673204766768
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Saudi•2
+http://62.182.82.104/Saudi_2/index.m3u8?token=test&v=1673204766768
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SPOTV®2
+http://103.167.167.5:8111/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SPOTV®1
+http://103.167.167.5:8111/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SONY SPORT 1
+http://208.86.19.13:81/7266.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Freecatv Euro.Sports 2
+http://175.107.244.52:4457/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Freecatv Euro.Sports 1
+http://175.107.244.52:4457/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",beIN Sports 2 English HD 🇬🇧
+http://175.107.244.52:4457/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein Sports 5 Arabic 🇶🇦
+http://175.107.244.52:4457/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein Sports 🇶🇦
+http://175.107.244.52:4457/play/a070/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Star Sports S 1 HD
+http://175.107.244.52:4455/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Ten cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/9886.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",EDGE
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Sky sports cricket HD
+http://starshare.org:8080/live/gxc733/sxk877/23566.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Bein SPORTS PREMIUM
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Star sports 1 HD
+http://starshare.org:8080/live/gxc733/sxk877/98864.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Fox Sports 2 MX
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Fox Sports Premium MX
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SKY CRICKET
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=623906&extension=ts
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Euro Sports
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",BeIN Sports 1
+http://103.167.167.5:8111/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",BeIN Sports 3
+http://103.167.167.5:8111/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Toffee Sports
+https://mprod-cdn.toffeelive.com/ilt20/channel-1/master_850.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",BEIN SPORT 3 🇬🇧
+http://175.107.244.52:4457/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Astro_Arena
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",ASSP.1
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",ASSP.4
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",TUDN 🇲🇽
+http://45.182.21.251:33334/play/a07y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",TUDN HD USA 🇲🇽
+http://45.182.21.251:33334/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Max Sport 1 🇧🇬
+http://94.156.59.247:8899/udp/224.2.1.49:1234
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SPORTS TV 🇹🇷
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",TELEVIVO 🇺🇾
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",SKY SPORTS F1 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586776.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",PREMIER SPORTS 2 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586812.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",FIGHT BOX HD
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",MAQ TV CRICKET
+http://str24.l9574.com/517.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",MQC TV
+http://208.86.19.13:81/517.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",X SPORT
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",X SPORT PLUS
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",BeIN Sports Premium 1 4K
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",BeIN Sports Premium 2 4K
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",BeIN Sports 3 Premium 4K
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=1673204766768
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",A SportsHD 🇮🇳
+http://180.178.188.152:8000/play/a0ad
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",Eleven 1 HD 🇵🇹
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15959
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",ESPN 🇦🇷
+http://181.189.246.86:58003/play/a02h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",CANAL + 2 SPORT 🇨🇵
+https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/iI0JqKzFndso/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",CANAL + 3 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/qgrgFjuER8P7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",CANAL + 4 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/h3EVt1gISRl7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",CANAL + 5 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/ri6MpQ6fqlKM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",T sports BD HD
+http://starshare.org:8080/live/gxc733/sxk877/130714.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",BeinSports•1•Premium
+https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048736
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",BeinPremium_1_arb
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="SPORTS",V-Play
+https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
+###############################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] SPORT",LIVE 1 HD
+https://anutv.xyz/live/live1.m3u8
+
+##EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] SPORT",LIVE 2 HD
+https://anutv.xyz/live/live2.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] SPORT",LIVE 3 HD
+https://anutv.xyz/live/live3.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] SPORT",LIVE 4 HD
+https://anutv.xyz/live/live4.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] SPORT",LIVE 5 HD
+https://anutv.xyz/live/live5.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] SPORT",LIVE 6 HD
+https://anutv.xyz/live/live6.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] SPORT",LIVE 7 HD
+https://anutv.xyz/live/live7.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] SPORT",LIVE 8 HD
+https://anutv.xyz/live/live8.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] SPORT",LIVE 9 HD
+https://anutv.xyz/live/live9.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] SPORT",LIVE 10 HD
+https://anutv.xyz/live/live10.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
+###############################################################################################################
+
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Premier League", REFRESH BEFORE MATCH
+
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Premier League", LIVE Premier 1 
+https://anutv.xyz/live/premier/premier1.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Premier League", LIVE Premier 2 
+https://anutv.xyz/live/premier/premier2.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Premier League", LIVE Premier 3 
+https://anutv.xyz/live/premier/premier3.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Premier League", LIVE Premier 4 
+https://anutv.xyz/live/premier/premier4.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Premier League", LIVE Premier 5
+https://anutv.xyz/live/premier/premier5.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Premier League", LIVE Premier 6
+https://anutv.xyz/live/premier/premier6.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
+###############################################################################################################
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Liga Indonesia", REFRESH DAHULU
+http://anutv.xyz/video/warning.mp4
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Liga Indonesia", LIVE IDN 
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Liga Indonesia", LIVE IDN 1 
+https://anutv.xyz/live/lokal/liga1.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Liga Indonesia", LIVE IDN 2 
+https://anutv.xyz/live/lokal/liga2.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Liga Indonesia", LIVE IDN 3 
+https://anutv.xyz/live/lokal/liga3.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="[LIVE] Liga Indonesia", LIVE IDN 4 
+https://anutv.xyz/live/lokal/liga4.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
+
+
+###############################################################################################################
+
+
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",AXN (192.168.240.39)
+http://103.167.167.5:8111/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",BLOOMBERG (192.168.240.6)
+http://103.167.167.5:8111/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",BN TV
+http://103.167.167.5:8111/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",CARTOON NETWORK (192.168.240.27)
+http://103.167.167.5:8111/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",CELESTIAL
+http://103.167.167.5:8111/play/a03w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",CELESTIAL CLASSIC MOVIES (176.16.201.9)
+http://103.167.167.5:8111/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",CELESTIAL MOVIES (192.168.240.23)
+http://103.167.167.5:8111/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",CHAMPION 1 (176.16.201.7)
+http://103.167.167.5:8111/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",CHAMPION 2 (176.16.201.8)
+http://103.167.167.5:8111/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",CHANNEL 5 (192.168.240.28)
+http://103.167.167.5:8111/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",CHANNEL 8 (192.168.240.36)
+http://103.167.167.5:8111/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",CINEMA WORLD (192.168.240.45)
+http://103.167.167.5:8111/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",DAAI TSU ZHI (192.168.240.3)
+http://103.167.167.5:8111/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",DW TV
+http://103.167.167.5:8111/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",FASHION TV
+http://103.167.167.5:8111/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",TV MONDE
+http://103.167.167.5:8111/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",CINEMAX
+http://103.167.167.5:8111/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",GTV (192.168.240.34)
+http://103.167.167.5:8111/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",HAARI DRAMA (192.168.240.9)
+http://103.167.167.5:8111/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",HAARI KIDS (192.168.240.7)
+http://103.167.167.5:8111/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",HAARI MOVIES (192.168.240.8)
+http://103.167.167.5:8111/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",IND - ANIMAX
+http://103.167.167.5:8111/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",IND-ANIPLUS
+http://103.167.167.5:8111/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",INDI - BEIN 1
+http://103.167.167.5:8111/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",INDI - BEIN 3
+http://103.167.167.5:8111/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",INDI - CNN INDONESIA
+http://103.167.167.5:8111/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",INDI - TVN
+http://103.167.167.5:8111/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",INDOSIAR (192.168.240.20)
+http://103.167.167.5:8111/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",INHOUSE-JBV
+http://103.167.167.5:8111/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",INHOUSE-JBV3
+http://103.167.167.5:8111/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",INHOUSE-JBV4
+http://103.167.167.5:8111/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",KBS-WORLD
+http://103.167.167.5:8111/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",KIX (192.168.240.19)
+http://103.167.167.5:8111/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",LEGO
+http://103.167.167.5:8111/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",MAGNA CHANNEL
+http://103.167.167.5:8111/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",METRO TV HD
+http://103.167.167.5:8111/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",MING XE (192.168.240.26)
+http://103.167.167.5:8111/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",MNC TV (192.168.240.31)
+http://103.167.167.5:8111/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",MTV (192.168.240.22)
+http://103.167.167.5:8111/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",MTV ASIA (192.168.240.38)
+http://103.167.167.5:8111/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",MY CINEMA (192.168.240.47)
+http://103.167.167.5:8111/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",MY CINEMA ASIA (192.168.240.46)
+http://103.167.167.5:8111/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",MY FAMILY (192.168.240.14)
+http://103.167.167.5:8111/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",NAT GEO WILD (192.168.240.43)
+http://103.167.167.5:8111/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",NGC (192.168.240.13)
+http://103.167.167.5:8111/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",NICK (192.168.240.4)
+http://103.167.167.5:8111/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",RCTI (192.168.240.42)
+http://103.167.167.5:8111/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",ROCK ENTERTAINMENT (192.168.240.44)
+http://103.167.167.5:8111/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",ROCK EXTREME (192.168.240.16)
+http://103.167.167.5:8111/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",SCTV
+http://103.167.167.5:8111/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",SET INT (192.168.240.33)
+http://103.167.167.5:8111/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",SET TV (192.168.240.32)
+http://103.167.167.5:8111/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",SOCCER (192.168.240.11)
+http://103.167.167.5:8111/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",SONY GEM (192.168.240.29)
+http://103.167.167.5:8111/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",SONY ONE 2 (192.168.240.24)
+http://103.167.167.5:8111/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",SPOTV
+http://103.167.167.5:8111/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",SPOTV 1 (192.168.240.10)
+http://103.167.167.5:8111/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",SPOTV 2 (192.168.240.30)
+http://103.167.167.5:8111/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",THRILL
+http://103.167.167.5:8111/play/a03v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",THRILL(176.16.201.2)
+http://103.167.167.5:8111/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",TVRI Kanal 3
+http://103.167.167.5:8111/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",TVRI Nasional
+http://103.167.167.5:8111/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",TVRI Sport
+http://103.167.167.5:8111/play/a01x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",WB (192.168.240.37)
+http://103.167.167.5:8111/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",WFC
+http://103.167.167.5:8111/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",ZEE BIOSKOP
+http://103.167.167.5:8111/play/a03g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",ZEE BIOSKOP (192.168.240.40)
+http://103.167.167.5:8111/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",ZHEJIANG (176.16.201.4)
+http://103.167.167.5:8111/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg"group-title="IPTV",happy kids junior
+http://103.167.167.5:8111/play/a03b/index.m3u8
+
+
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=tcRvI1rSokk
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
+
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=tcRvI1rSokk
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
+
+################################################################################################
+
+
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", TVONE
+http://trtv.trchannel.xyz/YT_Live.php?id=https://youtu.be/yNKvkPJl-tg
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", KOMPAS TV
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=Za5-fvwbPJI
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", METRO TV
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=WkpxPTZ2BPw
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", NET TV
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=wKWkVLzQnlw
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", KHB
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=RUDCWz4dE48
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", MEDS TV
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=eCST7ychbJs
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", NCS MUSIC
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=7tNtU5XFwrU
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", CNA NEWS
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=XWq5kBlakcQ
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", ALJAZEERA
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=F-POY4Q0QSI
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", TRT WORLD
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=5mL-OkdM7Tc
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", DW
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=ammKkVgtIHw
+
+#EXTINF: -1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="YOUTUBE LIVE", LIVE EARTHQUAKE 1
+http://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=tcRvI1rSokk
+
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=tcRvI1rSokk
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
+
+################################################################################################
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/rodjatv.png" group-title="Muslim-TV",RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/rodjatv.png" group-title="Muslim-TV",RODJA TV 2
+https://h1.intechmedia.net/intech/ch26.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/rodjatv.png" group-title="Muslim-TV",RODJA TV 3
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/ahsantv.png" group-title="Muslim-TV",AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/surautv.png" group-title="Muslim-TV",Surau TV
+http://119.235.249.58:1935/surautv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/surautv.png" group-title="Muslim-TV",Surau TV 2
+https://h1.intechmedia.net/intech/ch3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/alimantv.png" group-title="Muslim-TV",AL-ImanTV
+https://tv.rodja.live/aliman/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/alimantv.png" group-title="Muslim-TV",AL-ImanTV 2
+https://h1.intechmedia.net/intech/ch9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/mgitv.png" group-title="Muslim-TV",MGI TV
+https://tv.rodja.live/tasik/mgitv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/mgitv.png" group-title="Muslim-TV",MGI TV 2
+https://h1.intechmedia.net/intech/ch25.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/muadztv.png" group-title="Muslim-TV",muadzTV
+http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/muadztv.png" group-title="Muslim-TV",muadzTV 2
+https://h1.intechmedia.net/intech/ch5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/izzahtv.png" group-title="Muslim-TV",IZZAH TV
+https://streaming.sigraduta.co.id/izzahtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/izzahtv.png" group-title="Muslim-TV",IZZAH TV 2
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/izzahtv.png" group-title="Muslim-TV",IZZAH TV 3
+https://h1.intechmedia.net/intech/ch7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/wesaltv.png" group-title="Muslim-TV", WESALTV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/wesaltv.png" group-title="Muslim-TV",WESALTV 2
+https://h1.intechmedia.net/intech/ch18.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/ufa.png" group-title="Muslim-TV",UFA TV
+https://h1.intechmedia.net/intech/ch27.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/niagatv.png" group-title="Muslim-TV",NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/rasyaadtv.png" group-title="Muslim-TV",RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/ashiiltv.png" group-title="Muslim-TV",ASHIIL TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/Insantv.png" group-title="Muslim-TV",INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/hijrahtv.png" group-title="Muslim-TV",HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/alfurqontv.png" group-title="Muslim-TV",ALFURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/binbaztv.png" group-title="Muslim-TV",BINBAZ TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/medstv.png" group-title="Muslim-TV",MedS TV
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/sjptv.png" group-title="Muslim-TV",SJP TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/radiokitatv.png" group-title="Muslim-TV",RADIO KITA TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
+
+#########################################################################################################################
+
+
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",MetroTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",KompasTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",SeaToday
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM", Ruang Terampil
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",Mt@TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",RodjaTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",Mytv
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",JTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",Maxstream-Music
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",JakTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",UseePrime
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",DigiOne
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",Magna
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",Hi
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",Channel4U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",UseePhoto
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",BaliTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",DGTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",MCC
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://anutv.000webhostapp.com/max.jpg"group-title="MAXSTREAM",The Indonesia Chanel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
+########################################################################################################################
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JPM_TV.png" group-title="FTA",JPM TV
+http://122.248.43.138:1935/ch6/myStream/chunklist_w503404370.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0r9bpC.png" group-title="FTA",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA",Magna TV 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_anutv_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_anutv_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_anutv_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_anutv_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_anutv_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF: -1 tvg-logo="hhttp://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA", RRI NET
+http://36.89.47.217:11935/rrinet/live/chunklist_anutv.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA", JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_anutv.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA",ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="FTA", Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-r3xE1BRbuQU/VvgP6X23G3I/AAAAAAAAE30/wsoAnH-kzMM5gD8sMvvcA_tBXpGOv9zfQCKgB/s1600/0111e35c6a7f54160f1f395bf5cebb82.png" group-title="FTA",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="FTA",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bollywoodmusicproject.com/new/wp-content/uploads/2017/12/9XM-02.png" group-title="FTA", 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="FTA",Mekkah tv
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q5wbRs1/AL-SUNNAH-AL-NABAWIYAH.png" group-title="FTA",Al Sunnah An Nabawiyyah
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="FTA",Dhamma TV (720p) [Not 24/7]
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="FTA",Duta TV (360p) [Not 24/7]
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FTA",Ficom Channel (720p)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FTA",Garda TV (576p)
+https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/WIswNPp.png" group-title="FTA",Garuda TV (720p) [Not 24/7]
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+
+#EXTINF:-1 tvg-id="IAmChannel.id" tvg-logo="https://www.lyngsat.com/logo/tv/ii/i_am_channel_id.png" group-title="FTA",I AM CHANNEL (576p) [Not 24/7]
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="FTA",Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/xI1OebM.png" group-title="FTA",Inspira TV (720p) [Not 24/7]
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="FTA",MQTV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="FTA",DisneyJr
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+
+#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-name="LEGO Kids TV" tvg-logo="https://i.ibb.co/gZmhhv7/images.png" group-title="FTA",LEGO Kids TV
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest/scale-to-width-down/238?cb=20140525234116" group-title="FTA",happykids
+https://happykids-roku.amagi.tv/playlist404pl.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest/scale-to-width-down/238?cb=20140525234116" group-title="FTA",happy kids junior
+https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="FTA",ANIMALS TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="FTA",PARANORMAL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="FTA" ,Xplore
+https://xplore-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/smithsonian-logo-header.png" group-title="FTA",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="",
+#EXTVLCOPT:network-caching=1000
+
+################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDU5TJV.png" group-title="NEWS",BeritaSatu World
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ibvxPb.png" group-title="NEWS",Jakarta Globe News
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7RKQpQ.png" group-title="NEWS",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="NEWS",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w546426492_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="NEWS",NHK
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS", CNA ASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c0582b75e7f1d54d62a4.jpg?cdy=8.8.8.8" group-title="NEWS", TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="NEWS",Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="NEWS",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NEWS",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="http://statik.dpr.go.id/plugin-tv/images/logo.png" group-title="NEWS",Parlemen TV
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="NEWS",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2016/03/11/8c2563cd-fecd-4150-a9f9-1410a85f0efc/8c2563cd-fecd-4150-a9f9-1410a85f0efc_16x9_600x338.png" group-title="NEWS",Palestina Today
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="",
+#EXTVLCOPT:network-caching=1000
+
+################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[023] Surah Al-Mu'minun (Golongan yang Beriman) 
+https://archive.org/download/MurotalMR/023.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="Al-Qur'an",[027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[038] Surah Saad
+https://archive.org/download/MurotalMR/038.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[039] Surah Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan) 
+https://archive.org/download/MurotalMR/056.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[059] Surah Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="Al-Qur'an",[114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="",
+#EXTVLCOPT:network-caching=1000
+
+
+########################################################################################################################
+
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI Sport
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI BUDAYA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI ACEH
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI SUMATERA UTARA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI SUMATERA BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI SUMATERA SELATAN
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI RIAU
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI JAMBI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI BANGKA BELITUNG
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI BENGKULU
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI LAMPUNG
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI JAWA BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI JAWA TENGAH
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI JAWA TIMUR
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI YOGYAKARTA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI BALI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI NUSA TENGGARA BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI NUSA TENGGARA TIMUR
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI KALIMANTAN BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI KALIMANTAN TENGAH
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI KALIMANTAN TIMUR
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI KALIMANTAN SELATAN
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI SULAWESI SELATAN
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI SULAWESI BARAT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI SULAWESI TENGGARA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI SULAWESI TENGAH
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI SULAWESI UTARA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI GORONTALO
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI MALUKU
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+
+#EXTINF:-1   tvg-logo="http://kaulatv.xyz/gambar/kaulatv.jpeg" group-title="TVRI",TVRI PAPUA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="TVRI",
+
+###################################################################################################################################
+
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",FTV Midnight Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",Fashion TV Mumbay
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",Fashion TV New York
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",Fashion TV Singapore
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",FTV UHD
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",Fashion TV F-MAN
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",Victorias Secret
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/5a/297732/z4b_VICTORIAS__475498.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",F-MEN SWIMWEAR
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/5c/298240/9wh_MEN_MEN_SW_475555.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",Story of Sport Illustrated
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/13/263368/o3z_NOID_YKWR__394471.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",Midnite Haute (Lingerie)
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/67/302284/srx_LINGERIE_B_496758.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",Midle East
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/5a/297722/voa_MADE_IN_AR_470225.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Fashion-TV",90"s
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/67/302230/0ab_THE_90S_1__496617.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="",
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="TVRI",
+
+###################################################################################################################################
+
+#EXTM3U
+
+ 
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="18+",Miami TV Latino
+ https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="18+",visit X
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="18+",Miami TV jenny
+#EXTVLCOPT:network-caching=1000
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Ast-logo-rgb.png" group-title="18+",ast (use DNS)
+#EXTVLCOPT:network-caching=1000
+https://www.ast.tv/stream/1/normal.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Ast-logo-rgb.png" group-title="18+",ast (Use DNS)
+#EXTVLCOPT:network-caching=1000
+https://www.ast.tv/stream/2/normal.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic blowjob
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/blowjob.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic lesbian
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/lesbian.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic fetish
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/fetish.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic teen
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/teen.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic gangbang
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/gangbang.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic hardcore
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/hardcore.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic pornstar
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/pornstar.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic bigass
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/bigass.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic bigtits
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/bigtits.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic bigdick
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/bigdick.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic latina
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/latina.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic cuckold
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/cuckold.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic russian
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/russian.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic pov
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/pov.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic interracial
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/interracial.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/PEGI_18_white_%282003-2009%29.png" group-title="18+",Redtraffic milf
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uk.xml"
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Anal (720p)
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Asian (720p)
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Ass (720p)
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Dick (720p)
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Tits (720p)
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blonde (720p)
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blowjob (720p)
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Brunette (720p)
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Compilation (720p)
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Cuckold (720p)
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Fetish (720p)
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gangbang (720p)
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gay (720p)
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Hardcore (720p)
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Interracial (720p)
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Latina (720p)
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Lesbian (720p)
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Live Cams (720p)
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net MILF (720p)
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Pornstar (720p)
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net POV (720p)
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Rough (720p)
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Russian (720p)
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Teen (720p)
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Threesome (720p)
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Woman (720p)
+http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 1 (PC) (1080p) [Not 24/7]
+https://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 2 (PC) (1080p) [Not 24/7]
+https://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 tvg-id="Babestation24.de" tvg-logo="https://i.imgur.com/Tou64p1.png" group-title="XXX",Babestation24 (720p)
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="XXX",Fashion TV Midnight Secrets (1080p)
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/BEx0Ek1.png" group-title="XXX",Miami TV Jenny Live (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-logo="https://i.imgur.com/Y5tUClU.png" group-title="XXX",Miami TV Latino (1080p)
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV México (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Asian
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Ass
+http://live.mycamtv.com/defstream.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigTits.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Tits
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlonde.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Blonde
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBrunette.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Brunette
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 tvg-id="MyCamTVEbony.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Ebony
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 tvg-id="MyCamTVLatina.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Latina
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSkinny.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Skinny
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSquirt.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV White
+http://live.mycamtv.com/white.m3u8
+#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/3Q3YEku.png" group-title="XXX",O-la-la [Not 24/7]
+http://92.242.14.114:4022/udp/225.0.55.234:1234
+#EXTINF:-1 tvg-id="PinkOTV.it" tvg-logo="https://i.imgur.com/QinRAGU.png" group-title="XXX",Pink'O TV (720p)
+http://w4.12all.tv:4000/play/pinkotv/index.m3u8
+#EXTINF:-1 tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/sU6Ty6J.png" group-title="XXX",Redlight HD (720p)
+http://w4.12all.tv:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 tvg-id="XpandedTV.uk" tvg-logo="https://i.imgur.com/swETi4i.png" group-title="XXX" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",Xpanded TV Studio Cam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://vod2t.xpanded.com/x3tv2/index_wlan.m3u8
+#EXTINF:-1 tvg-id="XYMax.uk" tvg-logo="https://i.imgur.com/aWAATuE.png" group-title="XXX",XY Max
+http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 tvg-id="XYMix.uk" tvg-logo="https://i.imgur.com/BVAXZan.png" group-title="XXX",XY Mix
+http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 tvg-id="XYPlus.uk" tvg-logo="https://i.imgur.com/0Jd6bLl.png" group-title="XXX",XY Plus
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
+
+
+###################################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/e2be27y.png" group-title="Copyright by Anutv",
+
