@@ -6,16 +6,12 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script language="javascript">
-  var userAgent = navigator.userAgent.toLowerCase();
-  
- 
-  if (userAgent.indexOf('idm') > -1) {
-    window.location.replace("https://facebook.com/aldic5");
-  } else {
-  
-    window.location.replace("https://facebook.com/aldic5");
-  }
+<script type="text/javascript">
+    // Cek apakah IDM sedang berjalan
+    if (typeof IDM !== 'undefined') {
+        // Jika IDM terdeteksi, beri tahu pengguna untuk mematikannya
+        alert("Please disable IDM to download this file.");
+    }
 </script>
 </head>
 <body>
