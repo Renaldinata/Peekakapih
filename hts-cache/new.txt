@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:58:19	238/238	---MC-	301	error ('Moved%20Permanently')	text/html	date:Sat,%2023%20Sep%202023%2012:58:19%20GMT	https://watchlive.my.id/pl/ottnew.m3u	C:/My%20Web%20Sites/WatchLive/watchlive.my.id/pl/ottnew.0.delayed	(from )
+20:58:19	0/0	---M--	302	error ('Found')	text/html	date:Sat,%2023%20Sep%202023%2012:58:19%20GMT	https://s.id/playlistwatchlive	C:/My%20Web%20Sites/WatchLive/s.id/playlistwatchlive.1.delayed	(from )
+20:58:20	0/0	---M--	301	error ('Moved%20Permanently')	text/html	date:Sat,%2023%20Sep%202023%2012:58:21%20GMT	https://watch.numasa.net/KbLiC	C:/My%20Web%20Sites/WatchLive/watch.numasa.net/KbLiC.2.delayed	(from )
+20:58:21	495869/495869	---M--	200	added ('OK')	text/html	etag:%22790fd-60602dea73ca0%22	https://watchlive.my.id/master/plkita	C:/My%20Web%20Sites/WatchLive/watchlive.my.id/master/plkita.html	(from )
+20:58:21	107/107	---MC-	500	error ('Internal%20Server%20Error')	text/html	date:Sat,%2023%20Sep%202023%2012:58:22%20GMT	https://watchlive.my.id/robots.txt		(from )
